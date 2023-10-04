@@ -1,33 +1,29 @@
-# Documentation de la Semaine 1 (du 2 au 8 octobre )
+# Documentation de la Semaine 1 (du 2 au 8 octobre)
 
-## Premiers pas 
-Le lundi nous avons rencontré Mr Buffa et Mr  Donati pour comprendre le projet et récuperé les lunettes.
-Nous sommes ensuite allés a la BU. 
+## Premiers pas
+Le lundi, nous avons rencontré M. Buffa et M. Donati pour comprendre le projet et récupérer les lunettes. Nous sommes ensuite allés à la BU.
 
-Les objectifs que nous avons choisis pour la premiere semaine: 
-- Telecharger tout les logiciels, et modules necessaires:
-    - Unity 
-    - MRTK
-    - Git 
-- Suivre un tuto 
-    - Creer un premier projet
-    - Connecter les lunettes 
-    - Deployer le projet 
-- Ajouter une gestuelle dans le projet 
+Les objectifs que nous avons choisis pour la première semaine :
+- Télécharger tous les logiciels et modules nécessaires :
+  - Unity
+  - MRTK
+  - Git
+- Suivre un tutoriel :
+  - Créer un premier projet
+  - Connecter les lunettes
+  - Déployer le projet
+- Ajouter une gestuelle dans le projet
 
-Nous avons tous installé Unity, Git et le Mixed Reality Toolkit de windows.
-Ensuite, Nous avons commencé a suivre ce tuto : https://www.youtube.com/watch?v=dOsYerpKloY&pp=ygUTaG9sb2xlbnMgMiB0dXRvcmlhbA%3D%3D
+Nous avons tous installé Unity, Git et le Mixed Reality Toolkit de Windows. Ensuite, nous avons commencé à suivre ce tutoriel : [lien vers le tutoriel](https://www.youtube.com/watch?v=dOsYerpKloY&pp=ygUTaG9sb2xlbnMgMiB0dXRvcmlhbA%3D%3D)
 
-C'etait a tout les quatre notre premiere fois sur Unity, il nous a fallu nous familiariser avec le logiciel et l'environement. 
+C'était la première fois pour nous quatre sur Unity, il nous a fallu nous familiariser avec le logiciel et l'environnement.
 
-Le mardi, nous avons remarqué que les lunettes etaient bloqués, Nous avons attendu la reponse de Fabien Huet pour pouvoir deployer le projet réalisé avec le tutoriel:
+Le mardi, nous avons remarqué que les lunettes étaient bloquées. Nous avons attendu la réponse de Fabien Huet pour pouvoir déployer le projet réalisé avec le tutoriel :
 
-Des objects sont placés dans l'environement et on peut les attraper et le bouger.
+Des objets sont placés dans l'environnement et on peut les attraper et les bouger.
 
-Avec le mot de passe des lunettes, nous avons pu les allumer et les mettre en mode developpeur. 
+Avec le mot de passe des lunettes, nous avons pu les allumer et les mettre en mode développeur.
 
-Le lendemain, nous avons passé la journée a connecter les lunnette a nos pc et deployer le projet. Il y avait toujours sur des nouvelles erreurs. Dans l'apres midi nous avons enfin reussi a deployer un projet de un de nos PC. 
+Le lendemain, nous avons passé la journée à connecter les lunettes à nos PC et à déployer le projet. Il y avait toujours de nouvelles erreurs. Dans l'après-midi, nous avons enfin réussi à déployer un projet sur l'un de nos PC.
 
-
-Nous avons continuer a travailler pour pouvoir se connecter avec tout nos pc pour pouvoir travailler ensemble. 
-
+Nous avons continué à travailler pour pouvoir nous connecter avec tous nos PC et ainsi travailler ensemble.
