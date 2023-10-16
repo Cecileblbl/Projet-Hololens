@@ -1,0 +1,27 @@
+# Documentation de la Semaine 2 (du 9 au 15 octobre)
+
+## Premiers pas
+
+Les objectifs que nous avons choisis pour la première semaine :
+- Comprendre et créer un menu
+- Ajouter une gestuelle dans le projet
+
+Lundi:
+Pour commencer nous avons coupler tous nos ordinateurs à l'Hololens
+Pour comprendre comment fonctionne les menus, nous avons installé Mixed Reality Example sur l'hololens; l'appli permet de visualiser
+les différents type de menu existant dans le package Mixed Reality Toolkit Examples sur Unity
+
+Nous avons réussi à modifier et à personnaliser les menus sur Unity, nous pensons qu'avec les menus déjà existant nous n'aurons pas besoin
+de créer une menu from scratch.
+
+Enfin, nous avons compris comment streamer en direct la vision de l'utilisateur de l'Hololens.
+
+Nous 
+
+Mardi:
+
+Nous avons installé une application en dehors du Microsoft Store nous permettant de créer une gestuelle et de l'importer dans un projet Unity
+
+Nous avon fait aussi des recherches sur Azur Anchor Object, un outil de modélisation de la vie réelle dans la vie virtuelle, permettant à
+l'Hololens de reconnaître n'importe quel objet.
+
