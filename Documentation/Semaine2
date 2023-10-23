@@ -7,7 +7,7 @@ Les objectifs que nous avons choisis pour la première semaine :
 
 Lundi:
 Pour commencer nous avons coupler tous nos ordinateurs à l'Hololens
-Pour comprendre comment fonctionne les menus, nous avons installé Mixed Reality Example sur l'hololens; l'appli permet de visualiser
+Pour comprendre comment fonctionnent les menus, nous avons installé Mixed Reality Example sur l'hololens; l'appli permet de visualiser
 les différents type de menu existant dans le package Mixed Reality Toolkit Examples sur Unity
 
 Nous avons réussi à modifier et à personnaliser les menus sur Unity, nous pensons qu'avec les menus déjà existant nous n'aurons pas besoin
@@ -15,7 +15,6 @@ de créer une menu from scratch.
 
 Enfin, nous avons compris comment streamer en direct la vision de l'utilisateur de l'Hololens.
 
-Nous 
 
 Mardi:
 
