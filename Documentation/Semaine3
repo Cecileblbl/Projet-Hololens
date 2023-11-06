@@ -1,7 +1,7 @@
 # Documentation de la Semaine 3 (du 16 au 22 octobre)
 
-
 Les objectifs que nous avons choisis pour cette semaine :
+
 - Modifier et comprendre en profondeur les menus
 - Comprendre comment utiliser les object anchors et la reconnaissance d'objets avec Microsoft Azure
 - Essayer la détection de QR-code avec Vuforia(package pour la réalité augmentée)
@@ -12,13 +12,11 @@ Nous avons continuer les recherches sur Microsoft Azure, en suivant un tuto (htt
 
 En parallèle à cela, nous avons réussi à modifer un menu et à comprendre comment focntionne les différents scripts du MRTK sur les menus
 
-
-
 Mardi:
 
-Nous avons créer des objects anchors avec des modèles 3D(https://learn.microsoft.com/fr-fr/azure/object-anchors/quickstarts/get-started-model-conversion), mais nous n'arrivions toujours pas à implémenter nos modèles dans l'app
+Nous avons créer des objects anchors avec des modèles 3D [lien](https://learn.microsoft.com/fr-fr/azure/object-anchors/quickstarts/get-started-model-conversion), mais nous n'arrivions toujours pas à implémenter nos modèles dans l'app
 
-Nous avons réussi à compiler et à lancer dans l'Hololens, un menu que nous avons personnalisé. Malheureusement, le menu dans l'hololens ne 
+Nous avons réussi à compiler et à lancer dans l'Hololens, un menu que nous avons personnalisé. Malheureusement, le menu dans l'hololens ne
 foncionne pas comme voulu, et ne réagit pas de la même manière dans Unity.
 Les boutons du menu ne semble pas bien calibrer et ne suit pas la main de l'utilisateur
 
@@ -32,4 +30,3 @@ dans la vraie vie
 
 Aussi, toute cette semaine nous avons remarqué des pertes de performance de l'Hololens quand on lance nos app, pour la semaine pro
 nous allons faire des recherches sur comment optimiser nos app.
-
