@@ -1,0 +1,20 @@
+# Documentation de la Semaine 5 (du 6 au 12 novembre)
+
+Nos objectifs pour la semaine:
+
+- Faire fonctionner la reconnaissance de modèle avec Vuforia
+- Rencontrer Mr Buffa (c'est pas une mince affaire)
+- Améliorer la precision de la reconnaissance de Tag
+
+Lundi:
+Nous avons travaillé sur la reconnaissance de modèle mais aucun des essais de projets d'ont fonctionné.
+
+Mardi:
+La reconnaissance de modèle a fonctionnée. Nous avons pu reconnaitre la forme d'un iPhone sur Unity.
+Apres cela, nous avons rencontré le M. Buffa et nous avons redéfini notre plan de travail. Nous avons décidé de se focaliser sur la reconnaissance de tag pour afficher les hologrammes. La position et l'orientation du tag devraient suffire a définir la position des objects interactifs.
+Nous avons donc continuer a créer des projects avec Vuforia.
+Le premier project utilise l'etiquette du pc pour determiner la position et la forme du clavier en commençant par un rectangle.
+
+Mercredi:
+Nous avons decider de commencer avec un livre de la BU l'objectif était d'utiliser le code bar pour determiner la géométrie du livre. Nous avons fait un projet qui détecte le code barre et place un modèle 3d qui trace les arêtes du livre.
+Ce project fonctionne avec Vuforia. Nous avions parlé avec un étudiant qui avait fait un projet avec HoloLens, il utilisait AR foundation a la place de Vuforia. Nous voulons essayer d'utiliser ce package pour comparer avec Vuforia.
